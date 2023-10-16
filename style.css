@@ -49,19 +49,11 @@ body{
     font-family: 'Outfit', sans-serif;
     font-size: 35px;
     margin-top: 60px;
-    display: flex;
-    justify-content: center;
-    margin-left: 0px;
+     margin-left: 90px; 
 }
 .ins{
     color: hsl(277, 64%, 61%);
-    font-family: 'Montserrat', sans-serif;
-    font-family: 'Outfit', sans-serif;
-    font-size: 35px;
-    position: absolute;
-    left: 395px;
-    top: 212px;
-}
+} 
 
 .right .main-paragraph{
     color: hsla(0, 0%, 100%, 0.55);
